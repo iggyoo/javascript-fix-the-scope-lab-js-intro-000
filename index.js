@@ -12,7 +12,7 @@ var animal = 'cat'
 
 function add2() {
   return n + two
-  var const two = 2
+  const two = 2
 }
 
 var funkyFunction = function () {
