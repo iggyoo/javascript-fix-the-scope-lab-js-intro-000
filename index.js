@@ -11,7 +11,7 @@ var animal = 'cat'
 }
 
 function add2() {
-  return  + two
+  return y + two
   const two = 2
 }
 
