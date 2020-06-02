@@ -10,8 +10,8 @@ var animal = 'cat'
   return animal
 }
 
-function add2() {
-  return zero + two
+function add2(n) {
+  return n + 2
   const two = 2
 }
 
